@@ -4,6 +4,7 @@
   "description": "a client-side mock request",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack --watch",
     "build": "webpack"
   },
   "repository": {
