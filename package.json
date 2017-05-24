@@ -1,0 +1,26 @@
+{
+  "name": "mody",
+  "version": "0.0.1",
+  "description": "a client-side mock request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywwhack/mody.git"
+  },
+  "keywords": [
+    "mock",
+    "request"
+  ],
+  "author": "yww7289@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ywwhack/mody/issues"
+  },
+  "homepage": "https://github.com/ywwhack/mody#readme",
+  "devDependencies": {
+    "np": "^2.15.0"
+  }
+}
